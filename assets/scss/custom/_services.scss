@@ -5,10 +5,8 @@
 }
 
 .card.bg-blue-16 {
-    /* From https://css.glass */
     background: rgba(156, 82, 50, 0.13) !important;
     border-radius: 16px !important;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
     border: 1px solid rgba(255, 255, 255, 0.3) !important;
-    z-index: -1;
 }

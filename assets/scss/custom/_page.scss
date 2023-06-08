@@ -2,13 +2,13 @@
 
 body {
     // background: white !important;
-    background: linear-gradient(#ffffff, #ffd9ce) !important;
+    background: linear-gradient(#ffffff, #ffd9ce);
 }
 html {
-    min-height: 100% !important;
+    min-height: 100%;
 }
 
 span.fs-3.fw-semibold {
     font-family: "Roboto" !important;
-    color: $dfOrange !important;
+    color: $dfOrange;
 }
