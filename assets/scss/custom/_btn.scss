@@ -1,0 +1,23 @@
+@import "./variables";
+
+.btn-primary.text-light.px-4 {
+    color: $dfWhite;
+    background-color: $dfOrange;
+    border: $dfOrange;
+}
+
+.btn.btn-outline-primary.px-4 {
+    color: $dfOrange;
+    font-family: "Roboto" !important;
+    background-color: $dfWhite !important;
+}
+
+.btn.btn-outline-primary.px-4.my-1.ms-xl-4:hover {
+    background-color: $dfOrange;
+    color: $dfWhite;
+}
+
+.btn.btn-outline-primary.px-4:hover {
+    background-color: $dfOrange;
+    color: $dfWhite;
+}

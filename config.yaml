@@ -1,0 +1,83 @@
+baseURL: "https://datafoundry.tech/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Data Foundry"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Data Foundry"
+  description: "We work with organizations "
+  images:
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#2f2f2f"
+    backgroundColor: "#2f2f2f"
+    faviconColor: "#2f2f2f"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  contact:
+    - "hello@datafoundry.tech"
+
+  copyright: "©2023 Data Foundry All Rights Reserved"
+
+menus:
+  main:
+
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 10
+
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 20
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 30
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 40
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 50
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 10
+
+    - name: "How we work"
+      url: "/#"
+      weight: 20
+
+    - name: "Our team"
+      url: "/#"
+      weight: 30
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 40
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 50
+
+taxonomies:
+  series: "series"
+  tags: "tags"

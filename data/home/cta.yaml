@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Let's Build Your AI Delivery!"
+  image: "images/services-web-development.png"
+  button:
+    label: "Let's do it"
+    url: "#"

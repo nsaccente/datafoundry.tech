@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Deliver **AI** to your customers"
+  text: ""
+
+  buttonPrimary:
+    label: "Get Started"
+    url: "#"
+
+  buttonSecondary:
+    label: "Learn More"
+    url: "#"

@@ -1,0 +1,14 @@
+@import "./variables";
+
+body {
+    // background: white !important;
+    background: linear-gradient(#ffffff, #ffd9ce) !important;
+}
+html {
+    min-height: 100%;
+}
+
+span.fs-3.fw-semibold {
+    font-family: "Roboto";
+    color: $dfOrange;
+}
