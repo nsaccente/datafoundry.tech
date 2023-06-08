@@ -5,10 +5,10 @@ body {
     background: linear-gradient(#ffffff, #ffd9ce) !important;
 }
 html {
-    min-height: 100%;
+    min-height: 100% !important;
 }
 
 span.fs-3.fw-semibold {
-    font-family: "Roboto";
-    color: $dfOrange;
+    font-family: "Roboto" !important;
+    color: $dfOrange !important;
 }

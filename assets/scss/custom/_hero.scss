@@ -1,12 +1,12 @@
 @import "./variables";
 
 .hero-title {
-    font-family: "Roboto Thin";
+    font-family: "Roboto Thin" !important;
 
 
     color: $dfBlack;
     strong {
-        font-family: "Roboto Light";
-        color: $dfOrange;
+        font-family: "Roboto Light" !important;
+        color: $dfOrange !important;
     }
 }

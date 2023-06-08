@@ -7,17 +7,18 @@
 }
 
 .btn.btn-outline-primary.px-4 {
-    color: $dfOrange;
+    color: $dfOrange !important;
     font-family: "Roboto" !important;
+    background: white !important;
     background-color: $dfWhite !important;
 }
 
 .btn.btn-outline-primary.px-4.my-1.ms-xl-4:hover {
-    background-color: $dfOrange;
-    color: $dfWhite;
+    background-color: $dfOrange !important;
+    color: $dfWhite !important;
 }
 
 .btn.btn-outline-primary.px-4:hover {
-    background-color: $dfOrange;
-    color: $dfWhite;
+    background-color: $dfOrange !important;
+    color: $dfWhite !important;
 }
