@@ -2,7 +2,9 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Deliver **AI** to your customers"
+  title1: "**Turbocharge** 🔥"
+  title2: "Your AI Delivery"
+
   text: ""
 
   buttonPrimary:
